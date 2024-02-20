@@ -26,6 +26,7 @@
 
 ### 语法
 - [Markdown 指南](https://www.markdownguide.org/)
+- [行内图片和图标展示](https://pnpdjie.github.io/docs/guides/markdown/icons.html)
 - [Markdown 官方教程](https://markdown.com.cn)
 - [菜鸟教程](https://www.runoob.com/markdown/md-tutorial.html)
 - [Cmd Markdown 简明语法手册](https://www.zybuluo.com/mdeditor?url=https://www.zybuluo.com/static/editor/md-help.markdown#cmd-markdown-%E9%AB%98%E9%98%B6%E8%AF%AD%E6%B3%95%E6%89%8B%E5%86%8C)
@@ -35,6 +36,7 @@
 - [为项目编写Readme.MD文件_提交代码时readme.md文件怎么写-CSDN博客](https://blog.csdn.net/baochanghong/article/details/51984862)
 - [手把手教会你使用Markdown【从入门到精通一篇就够了】-CSDN博客](https://blog.csdn.net/qq_40818172/article/details/126260661)
 - [Markdown语法大全(超级版)-CSDN博客](https://blog.csdn.net/weixin_45494811/article/details/104307670)
+- [轻松学透Markdown的终极教程「图片」专题 - 知乎](https://zhuanlan.zhihu.com/p/110602456)
 - 点击展开代码 (Markdown中代码块有两种)-[参阅](https://blog.csdn.net/qq_40818172/article/details/126260661) : 
 
 ```html
