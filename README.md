@@ -1,13 +1,17 @@
 
 ## 目录
 
-- [Markdown语法](#Markdown语法)
-- [iframe](#iframe)
-- [音乐](#音乐)
-- [热辣滚烫](#热辣滚烫 )
+[iframe](#iframe)
+
+[Markdown 语法](#Markdown语法)
+
+[音乐](#音乐)
+
+[热辣滚烫](#热辣滚烫 )
+
 ## 摘要🎆
 GitHub个人主页，官方称呼是profile，是一个以markdown脚本语言编写的个人GitHub展示主页面，README文件后缀名为md；md是markdown的缩写，markdown是一种编辑博客的语言。.md 文件是 markdown 文件，使用的是 Markdown 语言。
-如果你还不了解这个语言，可以去看 [Markdown 语法](#Markdown 语法)。
+如果你还不了解这个语言，可以去看 **Markdown语法**。
 
 ![banner](https://user-images.githubusercontent.com/23727056/87433896-78ae9700-c607-11ea-9ca6-9cdbe3f67998.jpg)
 ## GitHub搭建个人网站参考
