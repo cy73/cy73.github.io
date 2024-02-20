@@ -1,4 +1,5 @@
-# ![logo](https://github.com/cy73/cy73.github.io/assets/160321595/14142573-728e-4c1d-baae-5cc6683ed405)cy73.github.io
+#  ![logo](https://github.com/cy73/cy73.github.io/assets/160321595/14142573-728e-4c1d-baae-5cc6683ed405)
+# <i class="fa fa-gear fa-spin"></i> 00
 
 ### 目录
   [iframe](#iframe)、[语法](#语法)、[音乐](#音乐)、[热辣滚烫](#热辣滚烫 )
@@ -73,4 +74,8 @@
 
   热辣滚烫[播放](https://zj.jsjinfu.com:8443?url=88ys_9feeOIdVRJWEyQx6fA3y3O209tabinkF6SK9rXglQvSbtspajL%2B7mh0hjgHXny9MYJh5RQlGwY96ph9EsAkZuOvcP73uQGl0Gb79Lw)
 
-
+<head> 
+    <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/all.js"></script> 
+    <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/v4-shims.js"></script> 
+</head> 
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css">
