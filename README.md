@@ -47,4 +47,4 @@ GitHub个人主页，官方称呼是profile，是一个以markdown脚本语言�
 
 热辣滚烫[播放](https://zj.jsjinfu.com:8443?url=88ys_9feeOIdVRJWEyQx6fA3y3O209tabinkF6SK9rXglQvSbtspajL%2B7mh0hjgHXny9MYJh5RQlGwY96ph9EsAkZuOvcP73uQGl0Gb79Lw)
 
-[![Stumbling In](https://img.youtube.com/vi/PYCxct2e0zI/0.jpg)](https://www.bilibili.com/blackboard/html5mobileplayer.html?aid=756698857&bvid=BV1Ar4y1N71z&cid=297390316&autoPlay=true&danmaku=0)
+[![Stumbling In](http://i0.hdslb.com/bfs/archive/d2c13a39cb8f3884af0b6b478a363c875092573a.jpg)](https://www.bilibili.com/blackboard/html5mobileplayer.html?aid=756698857&bvid=BV1Ar4y1N71z&cid=297390316&autoPlay=true&danmaku=0)
