@@ -29,7 +29,7 @@
 - [Markdown 官方教程](https://markdown.com.cn)
 - [菜鸟教程](https://www.runoob.com/markdown/md-tutorial.html)
 - [Cmd Markdown 简明语法手册](https://www.zybuluo.com/mdeditor?url=https://www.zybuluo.com/static/editor/md-help.markdown#cmd-markdown-%E9%AB%98%E9%98%B6%E8%AF%AD%E6%B3%95%E6%89%8B%E5%86%8C)
-- [如何使用 Markdown 来撰写文档 - MDN Web 文档项目 | MDN](https://developer.mozilla.org/zh-CN/docs/MDN/Writing_guidelines/Howto/Markdown_in_MDN)
+- [如何使用 Markdown 来撰写文档 - MDN Web 文档项目](https://developer.mozilla.org/zh-CN/docs/MDN/Writing_guidelines/Howto/Markdown_in_MDN)
 - [GitHub Flavored Markdown 规范](https://github.github.com/gfm/)
 - [创建README.md文件_如何写readme.md-CSDN博客](https://blog.csdn.net/zhao_jing_bo/article/details/68063070)
 - [为项目编写Readme.MD文件_提交代码时readme.md文件怎么写-CSDN博客](https://blog.csdn.net/baochanghong/article/details/51984862)
