@@ -1,3 +1,9 @@
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
+
+
 ---
 layout: post
 title: "零基础小白如何搭建自己的 github.io 个人网站"
