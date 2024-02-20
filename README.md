@@ -1,9 +1,17 @@
+---
+layout: post
+title: "零基础小白如何搭建自己的 github.io 个人网站"
+date:   2024-1-27
+tags: [web]
+comments: true
+author: pianfan
+---
 
 ### 目录
 
 [iframe](#iframe)
 
-[Markdown 语法](#Markdown语法)
+[Markdown 语法](#Markdown-语法)
 
 [音乐](#音乐)
 
@@ -11,7 +19,7 @@
 
 ### 摘要🎆
 GitHub个人主页，官方称呼是profile，是一个以markdown脚本语言编写的个人GitHub展示主页面，README文件后缀名为md；md是markdown的缩写，markdown是一种编辑博客的语言。.md 文件是 markdown 文件，使用的是 Markdown 语言。
-如果你还不了解这个语言，可以去看 [Markdown 语法](#Markdown语法)。
+如果你还不了解这个语言，可以去看 [Markdown 语法](#Markdown-语法)。
 
 ![banner](https://user-images.githubusercontent.com/23727056/87433896-78ae9700-c607-11ea-9ca6-9cdbe3f67998.jpg)
 
@@ -24,7 +32,7 @@ GitHub个人主页，官方称呼是profile，是一个以markdown脚本语言�
 - [markdown排版工具](https://markdown.com.cn/editor/)
 - [MaHua 在线markdown编辑器](http://mahua.jser.me/)
 - 
-### Markdown语法
+### Markdown 语法
 - [Markdown 指南](https://www.markdownguide.org/)
 - [创建README.md文件_如何写readme.md-CSDN博客](https://blog.csdn.net/zhao_jing_bo/article/details/68063070)
 - [为项目编写Readme.MD文件_提交代码时readme.md文件怎么写-CSDN博客](https://blog.csdn.net/baochanghong/article/details/51984862)
