@@ -29,7 +29,7 @@
 - [Markdown语法大全(超级版)-CSDN博客](https://blog.csdn.net/weixin_45494811/article/details/104307670)
 - 点击展开代码 (Markdown中代码块有两种)-[参阅](https://blog.csdn.net/qq_40818172/article/details/126260661) : 
 
-```md
+```html
 <details>
   <summary>Click to expand!</summary>
   
