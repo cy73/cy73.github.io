@@ -1,8 +1,8 @@
 ### 目录
-[iframe](#iframe)、[Markdown 语法](#Markdown-语法)、[音乐](#音乐)、[热辣滚烫](#热辣滚烫 )
+[iframe](#iframe)、[语法](#语法)、[音乐](#音乐)、[热辣滚烫](#热辣滚烫 )
 ### 摘要🎆
 GitHub个人主页，官方称呼是profile，是一个以markdown脚本语言编写的个人GitHub展示主页面，<br> README文件后缀名为md；md是markdown的缩写，markdown是一种编辑博客的语言。<br>.md 文件是 markdown 文件，使用的是 Markdown 语言。<br>
-如果你还不了解这个语言，可以去看 [Markdown 语法](#Markdown-语法)。<br>我经常去的几个网站[Google][1]、[菜鸟教程][2]。
+如果你还不了解这个语言，可以去看 [语法](#语法)。<br>我经常去的几个网站[Google][1]、[菜鸟教程][2]。
 
 [1]:http://www.google.com
 [2]:https://www.runoob.com/markdown/md-tutorial.html
@@ -13,10 +13,10 @@ GitHub个人主页，官方称呼是profile，是一个以markdown脚本语言�
 - [chihu](https://zhuanlan.zhihu.com/p/548396509)
 - [GitHub个人主页美化 - 知乎](https://zhuanlan.zhihu.com/p/452561674)
 - [零基础小白如何搭建自己的 github.io 个人网站](https://pianfan.github.io)
-### 在线Markdown编辑器
+### Markdown编辑器
 - [markdown排版工具](https://markdown.com.cn/editor/)
 - [MaHua 在线markdown编辑器](http://mahua.jser.me/)
-### Markdown 语法
+### 语法
 - [Markdown 指南](https://www.markdownguide.org/)
 - [Markdown 基本语法 官方教程](https://markdown.com.cn)
 - [菜鸟教程](https://www.runoob.com/markdown/md-tutorial.html)
