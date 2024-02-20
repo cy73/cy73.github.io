@@ -1,6 +1,22 @@
 ### 目录
 [iframe](#iframe)、[Markdown 语法](#Markdown-语法)、[音乐](#音乐)、[热辣滚烫](#热辣滚烫 )
 
+<table>
+    <tr>
+        <th rowspan="2">值班人员</th>
+        <th>星期一</th>
+        <th>星期二</th>
+        <th>星期三</th>
+    </tr>
+    <tr>
+        <td>李强</td>
+        <td>张明</td>
+        <td><font face="楷体" color=#00ffff size=5>改变文字格式</font></td>
+    </tr>
+</table>
+
+
+
 ### 摘要🎆
 GitHub个人主页，官方称呼是profile，是一个以markdown脚本语言编写的个人GitHub展示主页面，<br> README文件后缀名为md；md是markdown的缩写，markdown是一种编辑博客的语言。<br>.md 文件是 markdown 文件，使用的是 Markdown 语言。<br>
 如果你还不了解这个语言，可以去看 [Markdown 语法](#Markdown-语法)。<br>我经常去的几个网站[Google][1]、[菜鸟教程][2]。
@@ -20,21 +36,24 @@ GitHub个人主页，官方称呼是profile，是一个以markdown脚本语言�
 ### Markdown 语法
 - [Markdown 指南](https://www.markdownguide.org/)
 - [Markdown 基本语法 官方教程](https://markdown.com.cn)
+- [菜鸟教程](https://www.runoob.com/markdown/md-tutorial.html)
+- [Cmd Markdown 简明语法手册](https://www.zybuluo.com/mdeditor?url=https://www.zybuluo.com/static/editor/md-help.markdown#cmd-markdown-%E9%AB%98%E9%98%B6%E8%AF%AD%E6%B3%95%E6%89%8B%E5%86%8C)
 - [创建README.md文件_如何写readme.md-CSDN博客](https://blog.csdn.net/zhao_jing_bo/article/details/68063070)
 - [为项目编写Readme.MD文件_提交代码时readme.md文件怎么写-CSDN博客](https://blog.csdn.net/baochanghong/article/details/51984862)
-- [菜鸟教程](https://www.runoob.com/markdown/md-tutorial.html)
-- 点击展开代码
-
-            <details>
-              <summary>Click to expand!</summary>
-              
-              ## Heading
-              1. A numbered
-              2. list
-                 * With some
-                 * Sub bullets
-            </details>
-
+- [手把手教会你使用Markdown【从入门到精通一篇就够了】-CSDN博客](https://blog.csdn.net/qq_40818172/article/details/126260661)
+- [Markdown语法大全(超级版)-CSDN博客](https://blog.csdn.net/weixin_45494811/article/details/104307670)
+- 点击展开代码 (Markdown中代码块有两种)-[参阅](https://blog.csdn.net/qq_40818172/article/details/126260661) :
+```md
+<details>
+  <summary>Click to expand!</summary>
+  
+  ## Heading
+  1. A numbered
+  2. list
+     * With some
+     * Sub bullets
+</details>
+```
 ### 音乐  
 [bilibili视频 Stumbling In](https://www.bilibili.com/blackboard/html5mobileplayer.html?aid=756698857&bvid=BV1Ar4y1N71z&cid=297390316&autoPlay=true&danmaku=0)
 ## iframe
