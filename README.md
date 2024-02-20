@@ -1,7 +1,7 @@
 ### 目录
-[iframe](#iframe)、[语法](#语法)、[音乐](#音乐)、[热辣滚烫](#热辣滚烫 )
+  [iframe](#iframe)、[语法](#语法)、[音乐](#音乐)、[热辣滚烫](#热辣滚烫 )
 ### 摘要🎆
-GitHub个人主页，官方称呼是profile，是一个以markdown脚本语言编写的个人GitHub展示主页面，<br> README文件后缀名为md；md是markdown的缩写，markdown是一种编辑博客的语言。<br>.md 文件是 markdown 文件，使用的是 Markdown 语言。<br>
+  GitHub个人主页，官方称呼是profile，是一个以markdown脚本语言编写的个人GitHub展示主页面，<br> README文件后缀名为md；md是markdown的缩写，markdown是一种编辑博客的语言。<br>.md 文件是 markdown 文件，使用的是 Markdown 语言。<br>
 如果你还不了解这个语言，可以去看 [语法](#语法)。<br>我经常去的几个网站[Google][1]、[菜鸟教程][2]。
 
 [1]:http://www.google.com
@@ -47,7 +47,7 @@ GitHub个人主页，官方称呼是profile，是一个以markdown脚本语言�
 ***
 
 ### 音乐  
-[bilibili视频 Stumbling In](https://www.bilibili.com/blackboard/html5mobileplayer.html?aid=756698857&bvid=BV1Ar4y1N71z&cid=297390316&autoPlay=true&danmaku=0)
+  bilibili视频 [Stumbling In](https://www.bilibili.com/blackboard/html5mobileplayer.html?aid=756698857&bvid=BV1Ar4y1N71z&cid=297390316&autoPlay=true&danmaku=0)
 ### iframe
 <iframe height=225 width=400 src="https://www.bilibili.com/blackboard/html5mobileplayer.html?aid=756698857&bvid=BV1Ar4y1N71z&cid=297390316&autoPlay=true&danmaku=0" frameborder=0   frameborder="0" border="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen="allowfullscreen" mozallowfullscreen="mozallowfullscreen" msallowfullscreen="msallowfullscreen" oallowfullscreen="oallowfullscreen" webkitallowfullscreen="webkitallowfullscreen"></iframe>
 
@@ -59,10 +59,10 @@ GitHub个人主页，官方称呼是profile，是一个以markdown脚本语言�
 [![热辣滚烫](https://p2.music.126.net/cuvJ0rksfCvpmQ7EUfewAQ==/109951169336132936.jpg?param=140y140)](https://www.88mv.org/vod-play-id-241896-src-1-num-1.html) 
 *点击图片播放*
 
-热辣滚烫[m3u8](https://hnzy.bfvvs.com/play/meppnM6e/index.m3u8)
+  热辣滚烫[m3u8](https://hnzy.bfvvs.com/play/meppnM6e/index.m3u8)
 
-热辣滚烫[88影视网](https://www.88mv.org/?ref=88ys.cn )              
+  热辣滚烫[88影视网](https://www.88mv.org/?ref=88ys.cn )              
 
-热辣滚烫[播放](https://zj.jsjinfu.com:8443?url=88ys_9feeOIdVRJWEyQx6fA3y3O209tabinkF6SK9rXglQvSbtspajL%2B7mh0hjgHXny9MYJh5RQlGwY96ph9EsAkZuOvcP73uQGl0Gb79Lw)
+  热辣滚烫[播放](https://zj.jsjinfu.com:8443?url=88ys_9feeOIdVRJWEyQx6fA3y3O209tabinkF6SK9rXglQvSbtspajL%2B7mh0hjgHXny9MYJh5RQlGwY96ph9EsAkZuOvcP73uQGl0Gb79Lw)
 
 
