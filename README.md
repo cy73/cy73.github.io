@@ -68,7 +68,6 @@
 
 ### 热辣滚烫  
 [![热辣滚烫](https://p2.music.126.net/cuvJ0rksfCvpmQ7EUfewAQ==/109951169336132936.jpg?param=140y140)](https://www.88mv.org/vod-play-id-241896-src-1-num-1.html) 
-*点击图片播放*
 
   热辣滚烫[m3u8](https://hnzy.bfvvs.com/play/meppnM6e/index.m3u8)
 
