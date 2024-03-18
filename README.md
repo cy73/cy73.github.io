@@ -76,6 +76,11 @@
   热辣滚烫[播放](https://zj.jsjinfu.com:8443?url=88ys_9feeOIdVRJWEyQx6fA3y3O209tabinkF6SK9rXglQvSbtspajL%2B7mh0hjgHXny9MYJh5RQlGwY96ph9EsAkZuOvcP73uQGl0Gb79Lw)
 
 - [Frankie_美国乡村音乐 I Ve Never Been To Me](https://github.com/cy73/cy73.github.io/assets/160321595/b77f9a14-46fa-4c6c-8a92-d66ed1f95c51)
+- [sealed with a kiss - 以吻封箴 演唱-布莱恩.海兰](https://github.com/cy73/cy73.github.io/assets/160321595/ea365889-0bf6-4f64-9cba-99ccacc04f11)
+
+
+
+
 
 
 
