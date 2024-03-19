@@ -77,7 +77,12 @@
 
 - [Frankie_美国乡村音乐 I Ve Never Been To Me](https://github.com/cy73/cy73.github.io/assets/160321595/b77f9a14-46fa-4c6c-8a92-d66ed1f95c51)
 - [sealed with a kiss - 以吻封箴 演唱-布莱恩.海兰](https://github.com/cy73/cy73.github.io/assets/160321595/ea365889-0bf6-4f64-9cba-99ccacc04f11)
-- [Lambada - 伦巴达 巴西舞曲](https://github.com/cy73/cy73.github.io/assets/160321595/004b3fbe-c128-4baf-a8bb-0a5673539529)
+- [Lambada - 伦巴达 巴西舞曲](https://github.com/cy73/cy73.github.io/assets/160321595/da31b0ea-093b-48f2-8740-02416a840ca9)
+                                
+
+[Lambada.webm](https://github.com/cy73/cy73.github.io/assets/160321595/e5fcd312-cfbc-42c7-bb23-ff92b711934e)
+
+
 
 
 
